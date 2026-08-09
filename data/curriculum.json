@@ -1,0 +1,160 @@
+{
+  "cohort": "AI Cohort \u00b7 31 days \u00b7 8 modules",
+  "days": [
+    {
+      "day": 1,
+      "title": "VS Code & Python Environment Setup",
+      "module": "Environment & Tooling"
+    },
+    {
+      "day": 2,
+      "title": "Local LLM & AI Coding Assistant Setup",
+      "module": "Environment & Tooling"
+    },
+    {
+      "day": 3,
+      "title": "First AI Project, React Frontend & GitHub",
+      "module": "Environment & Tooling"
+    },
+    {
+      "day": 4,
+      "title": "Reading & Processing Structured Data",
+      "module": "Data Foundations"
+    },
+    {
+      "day": 5,
+      "title": "Reading & Processing Unstructured Data",
+      "module": "Data Foundations"
+    },
+    {
+      "day": 6,
+      "title": "Building the Knowledge Base",
+      "module": "Data Foundations"
+    },
+    {
+      "day": 7,
+      "title": "Embeddings Explained",
+      "module": "Embeddings & Vector Search"
+    },
+    {
+      "day": 8,
+      "title": "Vector Databases Overview",
+      "module": "Embeddings & Vector Search"
+    },
+    {
+      "day": 9,
+      "title": "Building & Populating the Vector Database",
+      "module": "Embeddings & Vector Search"
+    },
+    {
+      "day": 10,
+      "title": "The Retrieval & Matching Engine",
+      "module": "Embeddings & Vector Search"
+    },
+    {
+      "day": 11,
+      "title": "RAG End-to-End & LLM API Basics",
+      "module": "LLM Core, Prompting & Fine-Tuning"
+    },
+    {
+      "day": 12,
+      "title": "Prompt Engineering Fundamentals",
+      "module": "LLM Core, Prompting & Fine-Tuning"
+    },
+    {
+      "day": 13,
+      "title": "Advanced Prompting: Function Calling & Structured Outputs",
+      "module": "LLM Core, Prompting & Fine-Tuning"
+    },
+    {
+      "day": 14,
+      "title": "Fine-Tuning: Concepts & When to Use It",
+      "module": "LLM Core, Prompting & Fine-Tuning"
+    },
+    {
+      "day": 15,
+      "title": "Fine-Tuning: Hands-On with LoRA & QLoRA",
+      "module": "LLM Core, Prompting & Fine-Tuning"
+    },
+    {
+      "day": 16,
+      "title": "Chatbot Backend & API Integration",
+      "module": "Chatbot Application Build"
+    },
+    {
+      "day": 17,
+      "title": "Chatbot Frontend Development",
+      "module": "Chatbot Application Build"
+    },
+    {
+      "day": 18,
+      "title": "Full-Stack Integration & Streaming Responses",
+      "module": "Chatbot Application Build"
+    },
+    {
+      "day": 19,
+      "title": "Response Formatting & Rich Outputs",
+      "module": "Chatbot Application Build"
+    },
+    {
+      "day": 20,
+      "title": "Conversation Memory & Context Management",
+      "module": "Chatbot Application Build"
+    },
+    {
+      "day": 21,
+      "title": "Agentic Frameworks: LangChain Agents & Tool Use",
+      "module": "Agentic AI & MCP"
+    },
+    {
+      "day": 22,
+      "title": "Multi-Agent Orchestration",
+      "module": "Agentic AI & MCP"
+    },
+    {
+      "day": 23,
+      "title": "Model Context Protocol (MCP)",
+      "module": "Agentic AI & MCP"
+    },
+    {
+      "day": 24,
+      "title": "Agentic Chatbot Integration",
+      "module": "Agentic AI & MCP"
+    },
+    {
+      "day": 25,
+      "title": "Chatbot Evaluation & Testing",
+      "module": "Evaluation, Security & Deployment"
+    },
+    {
+      "day": 26,
+      "title": "Performance Optimization & Cost Management",
+      "module": "Evaluation, Security & Deployment"
+    },
+    {
+      "day": 27,
+      "title": "Security, Privacy & Guardrails",
+      "module": "Evaluation, Security & Deployment"
+    },
+    {
+      "day": 28,
+      "title": "Docker & Kubernetes Deployment",
+      "module": "Evaluation, Security & Deployment"
+    },
+    {
+      "day": 29,
+      "title": "Monitoring, Logging & Observability",
+      "module": "Production & Capstone"
+    },
+    {
+      "day": 30,
+      "title": "Production Readiness & Final Testing",
+      "module": "Production & Capstone"
+    },
+    {
+      "day": 31,
+      "title": "Capstone Project & Final Demo",
+      "module": "Production & Capstone"
+    }
+  ]
+}
